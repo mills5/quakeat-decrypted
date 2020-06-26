@@ -20,6 +20,8 @@ I have patched the dongle protection out of the executable, so for the first tim
 # FAQ
 
 **Q: The glquake_decrypted.exe on this repo is a different file than what is produced by quakeat_patcher.c. Why?**
+
+
 A: glquake_decrypted.exe was dumped with Scylla. The patcher was written after the fact.
 
 # Special Thanks To
