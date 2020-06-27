@@ -25,7 +25,7 @@ This modified executable removes the dongle protection, so the port can be playe
 
 If you encounter crashes or freezes, try:
 
-- Using a Glide wrapper. [nGlide](http://www.zeus-software.com/downloads/nglide) worked for me.
+- Using a Glide wrapper. [nGlide](http://www.zeus-software.com/downloads/nglide) worked for me on Windows 10. Specifically, ensure the `glide.dll`, `glide2x.dll`, and `glide3x.dll` files are alongside `quake_decrypted.exe`.
 - Running the executable with the `-nogci`, `-nosound`, or `-window` options.
 
 ## FAQ ##
