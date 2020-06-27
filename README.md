@@ -14,7 +14,7 @@ You can read more about it here:
 
 You can obtain a copy of the port by searching for its MAME hard disk image, `quakeat.chd`.
 
-Previously, the quakeat was unplayable on home computers due to a missing physical copy protection dongle that would normally be plugged into the arcade machine. Attempting to run `glquake.exe` would result in a `Security key not found` error.
+Previously, quakeat was unplayable on home computers due to a missing physical copy protection dongle that would normally be plugged into the arcade machine. Attempting to run `glquake.exe` would result in a `Security key not found` error.
 
 This modified executable removes the dongle protection, so the port can be played on home computers.
 
