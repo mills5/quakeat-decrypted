@@ -15,7 +15,7 @@ I have patched the dongle protection out of the executable, so for the first tim
 
 # How To Use
 1. Download glquake_decrypted.exe and place it in the game's directory.
-2. Run
+2. Run (-nogci recommended)
 
 If you encounter crashes or freezes, try:
 * Using a Glide wrapper (nGlide worked for me)
