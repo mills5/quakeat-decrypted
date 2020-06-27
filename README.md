@@ -9,7 +9,7 @@ Quake Arcade Tournament Edition (quakeat) is an unreleased prototype arcade port
 You can read more about it here:
 
 - http://quakearcadetournament.blogspot.com/
-- https://quake.fandom.com/wiki/Quake_Arcade_Tournament_Edition
+- https://www.quaddicted.com/quake/quake_arcade_tournament_edition
 - https://www.tweaktown.com/news/36841/rare-quake-arcade-tournament-edition-on-ebay-1-of-20-/index.html
 
 You can obtain a copy of the port by searching for its MAME hard disk image, `quakeat.chd`.
