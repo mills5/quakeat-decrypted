@@ -27,7 +27,7 @@ If you encounter crashes or freezes, try:
 
 - Using a Glide wrapper. [nGlide](http://www.zeus-software.com/downloads/nglide) worked for me on Windows 10. Specifically, ensure the `glide.dll`, `glide2x.dll`, and `glide3x.dll` files are alongside `quake_decrypted.exe`.
 - Running the executable with the `-nogci`, `-nosound`, or `-window` options.
-- Opening `ID1/quake.rc` and changing the line `startdemos avis\lbe.avi` to `//startdemos avis\lbe.avi` ([issue](https://github.com/mills5/quakeat-decrypted/issues/2))
+- Opening `ID1/quake.rc` and commenting out all lines where a `.avi` file is passed as a parameter to `startdemos`, i.e. change `startdemos avis\lbe.avi` to `//startdemos avis\lbe.avi`, `startdemos avis\q3d-msv.avi` to `//startdemos avis\q3d-msv.avi`... ([issue](https://github.com/mills5/quakeat-decrypted/issues/2))
 
 ## FAQ ##
 
